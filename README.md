@@ -133,4 +133,4 @@ git commit -m "adding some notes to problem set 0"
 git push
 ```
 
-The first command adds Homework_0 to the list of changes that git will track; the second command commits those changes to your local git database; the third command pushes all the queued changes in your local database to your repository on github.
+The first command adds Homework-0 to the list of changes that git will track; the second command commits those changes to your local git database; the third command pushes all the queued changes in your local database to your repository on github.
